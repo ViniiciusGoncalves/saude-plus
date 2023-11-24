@@ -4,6 +4,10 @@ import Contexto from './Contexto';
 import Principal from './components/Principal';
 import axios from 'axios';
 
+// GUILHERME HENRIQUE MELO DE OLIVEIRA – RM: 95184
+// GUILHERME LUCAS ARTIGIANI – RM: 94322
+// VINICIUS GONÇALVES CARNEIRO – RM: 94154
+
 export default function App() {
     const [logado, setLogado] = useState(false);
     const [lista, setLista] = useState([]);
