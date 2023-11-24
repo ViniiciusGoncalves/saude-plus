@@ -1,4 +1,4 @@
-# Oarticipantes
+# Participantes
 <ul>
   <li>GUILHERME HENRIQUE MELO DE OLIVEIRA – RM: 95184
    <li>GUILHERME LUCAS ARTIGIANI – RM: 94322</li>
